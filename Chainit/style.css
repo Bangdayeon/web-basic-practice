@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: Poppins, 'Noto Sans KR', sans-serif;
+    margin: 0;
+}
+
+/* cover */
+#cover {
+    padding: 12px 40px;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    color: #8287a4;
+}
+
+.logo_front {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+.logo_back {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#cover div {
+    margin: 80px auto 280px;
+    width: 720px;
+}
+
+.text-medium {
+    font-size: 20px;
+    font-weight: 500;
+}
+.text-small {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#cover h1 {
+    font-size: 56px;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 12px auto 14px;
+}
+
+/* intro */
+#intro div {
+    width: 720px;
+    margin: 0 auto;
+    padding: 74px 0 64px;
+}
+#intro-chainify {
+    background-color: #f1f4fa;
+}
+
+#intro h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #161346;
+    margin-bottom: 42px;
+}
+#intro img {
+    border-radius: 24px;
+    width: 720px;
+}
+#intro p {
+    margin: 32px auto;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4c497b;
+}
+#intro button {
+    display: flex;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 16px 32px;
+    margin: 32px auto;
+    background-color: #413c91;
+    border-radius: 8px;
+    border: none;
+}
+
+/* footer */
+#careers {
+    background-color: #161346;
+    padding: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+#careers h1 {
+    font-size: 32px;
+    font-weight: 500;
+    color: #fff;
+    margin: 8px;
+}
+#careers p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #8287a4;
+}
+#careers button {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 9999px;
+    border: none;
+    background-color: #413c91;
+    padding: 16px 32px;
+    margin: 32px;
+}
+footer {
+    color: #d9d9d9;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #120f3f;
+    padding: 32px 0px;
+}
+footer div {
+    width: 720px;
+    margin: 0 auto;
+}
