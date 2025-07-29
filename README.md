@@ -1,0 +1,7 @@
+## 1. text_styling
+- text 스타일링 관련 css 속성 실습
+## 2. iu_good_day
+- background 이미지 넣기
+- gradient 넣기
+## 3. Monet
+- 부모 넘는 컨텐츠 처리 방법 (scroll, nowrap 등)
