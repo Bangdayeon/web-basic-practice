@@ -6,6 +6,10 @@ https://bangdayeon.github.io/web-basic-practice/
 - background 이미지 넣기
 - gradient 넣기
 ## 3. Monet
-- 부모 넘는 컨텐츠 처리 방법 (scroll, nowrap 등)
+- 부모 넘는 컨텐츠 처리 방법 알아보기(scroll, nowrap 등)
 ## 4. Chainit
-- 선택자 사용
+- 선택자 사용해보기
+## 5. Join
+- <form>, <input> 사용해보기
+## 6. CSS Position
+- CSS Position 속성 알아보기
